@@ -15,7 +15,7 @@ https://github.com/elarreglador
 ************************************
 ACERCA DE LA APLICACION
 ************************************
-Esta aplicacion crea un triangulo de pascal y lo muestra por consola
+Esta aplicacion de escritorio basada en electron, crea un triangulo de pascal de la altura indicada y lo muestra
 
 
 ![Imagen](https://github.com/elarreglador/Triangulo-de-pascal/blob/main/SCREENSHOTS/Captura%20de%20pantalla%20de%202023-12-13%2019-04-20.png)
